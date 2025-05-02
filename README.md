@@ -8,3 +8,24 @@
 -->
 # show-demo
 
+
+
+访问方式
+
+# githubPage 访问
+
+https://gaojianstyle.github.io/show/
+
+https://gaojianstyle.github.io/show/static/logo.png
+
+
+
+
+# jsdelivr 访问
+
+https://fastly.jsdelivr.net/gh/gaojianstyle/show@main/index.html
+
+https://fastly.jsdelivr.net/gh/gaojianstyle/show@main/static/logo.png
+
+
+
